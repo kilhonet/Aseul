@@ -31,7 +31,7 @@ Cliquez sur la jauge pour ouvrir la fenêtre d'état : utilisation exacte, temps
 - **Suit le thème de la barre des tâches** — sur une barre des tâches claire, la jauge repose sur un panneau LED noir ; sur une barre sombre, seuls les anneaux s'affichent. Le changement de thème s'applique immédiatement.
 - **Uniquement les services utilisés** — seuls les services connectés ont un cercle. Si vous n'utilisez que Codex, vous ne voyez que le cercle de Codex.
 - **Lancer au démarrage** — s'active ou se désactive depuis le menu du clic droit. Le programme d'installation l'active.
-- **22 langues** — suit la langue d'affichage de Windows.
+- **22 langues** — suit le format régional de Windows.
 
 ## Téléchargement / Installation
 
@@ -131,7 +131,7 @@ Il n'y a pas de fenêtre de réglages. La seule option est **Lancer au démarrag
 | Aspect de la jauge | Thème clair / sombre de la barre des tâches |
 | Taille de la jauge | Taille d'une icône de la zone de notification (mise à l'échelle de la barre des tâches) |
 | Fenêtre d'état | Toujours sombre |
-| Langue de l'interface | Langue d'affichage de Windows (22 langues, sinon anglais) |
+| Langue de l'interface | Format régional de Windows (22 langues, sinon anglais) |
 
 ## Configuration requise
 

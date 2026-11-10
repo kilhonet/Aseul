@@ -31,7 +31,7 @@ Haz clic en el indicador para abrir la ventana de estado con el uso exacto, el t
 - **Se adapta al tema de la barra de tareas** — en una barra de tareas clara el indicador se apoya sobre un panel LED negro; en una oscura solo se ven los anillos. El cambio de tema se aplica al instante.
 - **Solo los servicios que usas** — solo se dibujan círculos para los servicios con sesión iniciada. Si solo usas Codex, solo verás el círculo de Codex.
 - **Ejecutar al iniciar** — se activa o desactiva desde el menú contextual. El instalador lo deja activado.
-- **22 idiomas** — sigue el idioma de visualización de Windows.
+- **22 idiomas** — sigue el formato regional de Windows.
 
 ## Descarga / Instalación
 
@@ -131,7 +131,7 @@ No hay ventana de configuración. La única opción es **Ejecutar al iniciar** e
 | Aspecto del indicador | Tema claro / oscuro de la barra de tareas |
 | Tamaño del indicador | Tamaño de icono de la bandeja (escala de la barra de tareas) |
 | Ventana de estado | Siempre oscura |
-| Idioma de la interfaz | Idioma de visualización de Windows (22 idiomas; en otro caso, inglés) |
+| Idioma de la interfaz | Formato regional de Windows (22 idiomas; en otro caso, inglés) |
 
 ## Requisitos
 

@@ -31,7 +31,7 @@ Clique no medidor para abrir a janela de status com o uso exato, o tempo até o 
 - **Acompanha o tema da barra de tarefas** — numa barra de tarefas clara o medidor fica sobre um painel de LED preto; numa escura aparecem só os anéis. A troca de tema vale na hora.
 - **Só os serviços que você usa** — os círculos são desenhados apenas para os serviços conectados. Se você usa só o Codex, vê só o círculo do Codex.
 - **Iniciar com o Windows** — liga e desliga pelo menu do botão direito. O instalador deixa ligado.
-- **22 idiomas** — segue o idioma de exibição do Windows.
+- **22 idiomas** — segue o formato regional do Windows.
 
 ## Download / Instalação
 
@@ -131,7 +131,7 @@ Não há janela de configuração. A única opção é **Iniciar com o Windows**
 | Aparência do medidor | Tema claro / escuro da barra de tarefas |
 | Tamanho do medidor | Tamanho do ícone da bandeja (escala da barra de tarefas) |
 | Janela de status | Sempre escura |
-| Idioma da interface | Idioma de exibição do Windows (22 idiomas; caso contrário, inglês) |
+| Idioma da interface | Formato regional do Windows (22 idiomas; caso contrário, inglês) |
 
 ## Requisitos
 

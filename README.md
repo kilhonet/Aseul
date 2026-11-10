@@ -31,7 +31,7 @@ Click the gauge to open the status window with exact usage, the time left until 
 - **Matches the taskbar theme** — on a light taskbar the gauge sits on a black LED panel; on a dark taskbar only the rings are shown. Switching themes takes effect immediately.
 - **Only the services you use** — circles are drawn only for signed-in services. If you use only Codex, you see only the Codex circle.
 - **Run at startup** — turn it on or off from the right-click menu. The installer turns it on.
-- **22 languages** — follows the Windows display language.
+- **22 languages** — follows the Windows regional format.
 
 ## Download / Installation
 
@@ -131,7 +131,7 @@ There is no settings window. The only option is **Run at startup** in the right-
 | Gauge look | The taskbar's light / dark theme |
 | Gauge size | Tray icon size (taskbar scaling) |
 | Status window | Always dark |
-| Display language | Windows display language (22 languages, English otherwise) |
+| Display language | Windows regional format (22 languages, English otherwise) |
 
 ## Requirements
 
